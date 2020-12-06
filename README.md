@@ -13,8 +13,8 @@ Demand response research, code for the submission in the IEEE Transactions on Sm
 In experiment 1, we send targetted messages to a pre-specified number of households for a pre-specified device using our modelling methodology and randomly
 
 - [REFIT washing machines](./REFIT%20Experiment%201%20-%20Washing%20Machines.ipynb)
-- [REFIT dish washers]()
-- [REFIT tumble dryers]()
+- [REFIT dish washers](./REFIT%20Experiment%201%20-%20Dish%20Washers.ipynb)
+- [REFIT tumble dryers](./REFIT%20Experiment%201%20-%20Tumble%20Dryers.ipynb)
 - [HES washing machines]()
 - [HES dish washers]()
 - [HES tumble dryers]()
