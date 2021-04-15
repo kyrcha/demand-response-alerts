@@ -23,24 +23,24 @@ In experiment 1, we send targetted messages to a pre-specified number of househo
 
 Where instead of modelling per day of week, we model per working vs. non-working day
 
-- [Notebook (TO ADD)]()
+- [Notebook](./REFIT%20Experiment%201%20-%20Washing%20Machines%20-%20Workdays%20vs.%20Weekends.ipynb)
 
 ### Yesterday
 
 Where instead of modelling per day of week, we whether the appliance was on or off the previous day
 
-- [Notebook (TO ADD)]()
+- [Notebook](./REFIT%20Experiment%201%20-%20Washing%20Machines%20-%20Yesterday.ipynb)
 
 ## Experiment 2
 
 In experiment 2, we sent targetted messages based on a pre-specifid threshold to all households that their probability of opening a wet or heating device is above that threshold.
 
-- For [REFIT (TO ADD)]()
-- For [HES (TO ADD)]()
+- For [REFIT](./REFIT%20Experiment%202%20-%20MultiDevice.ipynb)
+- For [HES](./HES%20Experiment%202%20-%20MultiDevice.ipynb)
 
 ## Experiment 3
 
 In experiment 3, we sent targetted messages based on a pre-specifid threshold to all households that their probability of opening a specific device out of their wet and heating devices is above that threshold.
 
-- For [REFIT (TO ADD)]()
-- For [HES (TO ADD)]()
+- For [REFIT](./REFIT%20Experiment%203%20-%20Personalized.ipynb)
+- For [HES](./HES%20Experiment%203%20-%20Personalized.ipynb)
