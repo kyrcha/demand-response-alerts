@@ -1,6 +1,6 @@
-# dr-ieee-trans-smart-grid
+# Demand-response alerts
 
-Demand response research, code for the submission in the IEEE Transactions on Smart Grid
+Demand response research, code for the submission in Energies
 
 ## Pre-processing and lib
 
